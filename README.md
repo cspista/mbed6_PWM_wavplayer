@@ -87,3 +87,4 @@ peak-to-peak amplitude as it was demonstrated in the case of the
 
 ![](./images/mbed6_PWM_wavplayer_filtered.jpg)
 
+**Note:** The vertical scale is in arbitrary units, actually the value of 20.0 corresponds to 3.3 V.
